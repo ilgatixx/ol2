@@ -1,0 +1,33 @@
+body {
+   font-family: sans-serif; 
+   background-color: turquoise;
+   color: white;
+   font-size: 15px;
+   text-align: center;
+}
+header {
+    background-color: violet;
+    border-radius:20px ;
+    padding: 25px;
+    font-size: 30px;
+    margin: 20px;
+}
+main h2{
+ background-color: violet;
+ border-radius: 20px;
+ padding: 25px;
+ font-size: 30px;
+ margin: 20px;
+}
+p {
+    background-color:violet ;
+    border-radius: 20px;
+    font-size: 18px;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+}
+.post_picture {
+    width: 80%;
+    border-radius: 15px;
+}
